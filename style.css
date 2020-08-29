@@ -1,11 +1,11 @@
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://itzyt.github.io/-/paradise/fonts/icomoon.eot?lzaqut');
-  src:  url('https://itzyt.github.io/-/paradise/fonts/icomoon.eot?lzaqut#iefix') format('embedded-opentype'),
-  url('https://itzyt.github.io/-/paradise/fonts/icomoon.ttf?lzaqut') format('truetype'),
-  url('https://itzyt.github.io/-/paradise/fonts/icomoon.woff?lzaqut') format('woff'),
-  url('https://itzyt.github.io/-/paradise/fonts/icomoon.svg?lzaqut#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?lzaqut');
+  src:  url('fonts/icomoon.eot?lzaqut#iefix') format('embedded-opentype'),
+  url('fonts/icomoon.ttf?lzaqut') format('truetype'),
+  url('fonts/icomoon.woff?lzaqut') format('woff'),
+  url('fonts/icomoon.svg?lzaqut#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
